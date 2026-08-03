@@ -8,14 +8,14 @@ A high-contrast, accessibility-conscious port of the **Oxocarbon** theme for [Do
 
 ---
 
-## 📸 Preview
+## Preview
 
 ![Screenshot preview](screenshot.png)
 
 
 ---
 
-## 📦 Installation
+## Installation
 
 To install this theme manually, follow these steps:
 
