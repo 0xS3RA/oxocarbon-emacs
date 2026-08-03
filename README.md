@@ -10,7 +10,7 @@ A high-contrast, accessibility-conscious port of the **Oxocarbon** theme for [Do
 
 ## 📸 Preview
 
-![screenshot preview](https://i.ibb.co/7d3V9L0x/rrr.png)
+![Imgur](https://imgur.com/6iQ8w4c)
 
 
 ---
